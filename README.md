@@ -19,10 +19,10 @@ Image captioning - создание подписей к изображениям
 Валидационный датасет состоит из 17.9к изображений с TraffickCam из 5к различных отелей
 
 Есть такие файлы, содержащие объекты  с айдишниками
-chain_info.csv: chain_id, chain_name
-hotel_info.csv: hotel_id, hotel_name, chain_id, latitude, longitude
-train_set.csv: image_id, hotel_id, image_url, image_source, upload_timestamp
-test_set.csv: image_id, hotel_id, image_url, image_source, upload_timestamp
+* chain_info.csv: chain_id, chain_name
+* hotel_info.csv: hotel_id, hotel_name, chain_id, latitude, longitude
+* train_set.csv: image_id, hotel_id, image_url, image_source, upload_timestamp
+* test_set.csv: image_id, hotel_id, image_url, image_source, upload_timestamp
 
 
 
